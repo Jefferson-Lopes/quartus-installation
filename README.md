@@ -24,6 +24,14 @@ Quartus Prime uses some old libraries, still in the 32-bit standard. To make the
     $ sudo apt install libxft2:i386 libxext6:i386 libncurses5:i386 bzip2:i386
 
 
+### Additional package
+
+This additional package is needed for using the ModelSim-Altera. So, it isn't necessary for those how will not use ModelSim and can be installed in the future.
+
+    $ sudo apt install g++-multilib 
+
+**NOTE**: This may be causing an error because it's a 32bit program (ModelSim) running on a 64bit system.
+
 ### Downloading the Software
 
 To avoid errors and simplify the installation, download Quartus through the Combined Files tab. Download link: https://fpgasoftware.intel.com/?edition=lite
