@@ -1,4 +1,4 @@
-# How to install Quartus Prime in all platforms (in progress)
+# How to install Quartus Prime in all platforms
 
 ## Windows
 
