@@ -100,6 +100,7 @@ The next step is to right-click on the file created in the file manager, then cl
     Terminal=false
     Path=/home/USER/intelFPGA_lite/20.1
     Name[en_US]=Quartus Prime Lite
+    Categories=Development;IDE;
 
 
 #### Add .desktop file to the system
